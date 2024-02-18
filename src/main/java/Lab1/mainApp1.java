@@ -8,7 +8,6 @@ public class mainApp1 {
         System.out.println("Program Started...");
         System.out.println(b + " to power" + n + "=" + myLibrary.Power(b,n));
         System.out.println(n + "!=" + myLibrary.factortial((n)));
-        System.out.println("add the 3rd print line");
         System.out.println("Program..Ended...");
     }
 }
